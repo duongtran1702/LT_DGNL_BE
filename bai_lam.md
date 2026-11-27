@@ -1,8 +1,8 @@
 # Bài làm CinemaBox – Database + Backend
 
-Họ tên:
-Mã sinh viên:
-Lớp:
+- Họ tên: Atmin Trần
+- Mã sinh viên: B24DTCN098
+- Lớp: CNTT1
 
 ## Pha 1 (không dùng AI)
 
